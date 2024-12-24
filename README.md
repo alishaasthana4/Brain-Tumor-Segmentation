@@ -19,6 +19,12 @@ The BraTS dataset includes MRI images in four modalities:
 
 Here is an example of the dataset used in this project:
 
+![Segmentation with T1CE and Flair](https://github.com/user-attachments/assets/bdfcdc5e-9687-4f3b-be70-46eeb2899d58)
+![slice 90 data](https://github.com/user-attachments/assets/e86eebe8-596b-42a6-a724-d88168ae77a3)
+
+![slice 90 view](https://github.com/user-attachments/assets/f385caf0-f195-45a9-aafe-1459931f1084)
+
+
 ## Evaluation Metrics ⚙️
 The performance of the U-Net model was evaluated using standard metrics:
 
@@ -35,6 +41,16 @@ The performance of the U-Net model was evaluated using standard metrics:
 
 ## Model Output ⭐
 Below is a visualization of the segmentation results:
+
+
+
+
+
+![pred 3](https://github.com/user-attachments/assets/edde67b3-3e6c-4d63-ada1-8f2d6437af25)
+![pred 4](https://github.com/user-attachments/assets/a406c1d9-c239-45c7-9c54-51e375273aac)
+![pred 1](https://github.com/user-attachments/assets/079059f2-e3b4-4573-9e38-1ddbdf4afb5e)
+
+
 
 
 
